@@ -1,4 +1,13 @@
 Why Computer Science? 
 
-![Image 1](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiA8835wqrkAhVRzaQKHXWbCHgQjRx6BAgBEAQ&url=%2Furl%3Fsa%3Di%26source%3Dimages%26cd%3D%26ved%3D%26url%3Dhttps%253A%252F%252Fblogs.oracle.com%252Fcertification%252Ffive-job-categories-increasingly-requiring-computer-science-skills%26psig%3DAOvVaw1pn9F1P6sitAgFs21kWw_J%26ust%3D1567251689440435&psig=AOvVaw1pn9F1P6sitAgFs21kWw_J&ust=1567251689440435)
+Over the past few years, learning Compuer Science has become more and more important. We use computers in our daily livey. Most importantly, many jobs require their empolyees to have knowlede in computer science. Even jobs like designers search for people with a little knowledge of computer science. In the image labeled, "Computer Science Skills Help job Seekers Stay Ahead Of the Compition" we can see a statistic showing the value of computer science skills. The image reveals that even in jobs that aren’t traditional computing jobs, employers are seeking computer science skills from applicants.The report found strong or growing demand for computer science skills in these five job areas which were the focus of the report:
+* Data Analysis
+* Engineering and Manufacturing
+* Design
+* Marketing
+* Programming and Information Technology
+
+The graph also shows that the fastest-growing andthe highest-paying skills in these jobs are computer science-related. Students who develop computer science skills,are positioned for the best jobs upon graduation. In addition to the increasing jobs and productive skills computer science offers, studying computer sciene would benefit us in the future. 
+
+Computer science will grow exponentially in the following years. It should be important to learn since sooner or later it will be predomenant part in our society. Refering to the image titiled "Comic", we can see that the scientist is confused about a new technology now and fears it. If the younger generations start learning about computer science at an early age, like the present. Then we wouldnt be afraid of the future and the extent at which our knowledge of computer science can grow. 
 
